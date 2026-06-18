@@ -8,6 +8,15 @@
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
+.parametro-senha__texto{
+padding: 24px;
+border-top: 2px solid var(--borda);
+border-bottom: 2px solid var(--borda);
+margin: 0;
+font-size: 24px;
+}
+=======
+
 
 *{
     font-weight: 400;
@@ -36,3 +45,17 @@ padding: 24px;
 font-size: 24px;
 cursor: pointer;
 }
+<<<<<<< HEAD
+
+.parametro-senha__botao{
+background-color: var(--fundo-texto);
+color: var(--branco);
+border: 2px solid var(--borda);
+padding: 24px;
+font-size: 24px;
+cursor: pointer;
+}
+
+
+=======
+>>>>>>> cf8ae58580ee1fcba741a279b7fa9b1d6734d107
