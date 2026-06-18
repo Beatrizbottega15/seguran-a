@@ -17,7 +17,6 @@ font-size: 24px;
 }
 
 
-
 *{
     font-weight: 400;
 }
@@ -45,7 +44,7 @@ padding: 24px;
 font-size: 24px;
 cursor: pointer;
 }
-<<<<<<< HEAD
+
 
 .parametro-senha__botao{
 background-color: var(--fundo-texto);
@@ -56,6 +55,3 @@ font-size: 24px;
 cursor: pointer;
 }
 
-
-=======
->>>>>>> cf8ae58580ee1fcba741a279b7fa9b1d6734d107
